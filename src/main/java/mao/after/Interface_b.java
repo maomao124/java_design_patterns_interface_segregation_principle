@@ -15,5 +15,5 @@ package mao.after;
 
 public interface Interface_b
 {
-
+    void b();
 }
